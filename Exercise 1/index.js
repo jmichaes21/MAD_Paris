@@ -1,6 +1,6 @@
 /////////KELOMPOK PARIS////////
 //Anggota : 1. Birahy, Brian Gustaf
-//          2. Salainti, Juan
+//          2. Salainti, Juan Michael
 //          3. Usem, Chanlie
 //          4. Tirza Gracia
 //          5. Manaha, Cheisya
