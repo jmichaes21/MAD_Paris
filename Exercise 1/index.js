@@ -3,7 +3,7 @@
 //          2. Salainti, Juan Michael
 //          3. Usem, Chanlie
 //          4. Tirza Gracia
-//          5. Manaha, Cheisya
+//          5. Manaha, Cheisya Framita Lady 
 
 
 //////ARRAY EXERCISES//////
