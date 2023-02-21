@@ -4,6 +4,7 @@
 //          3. Usem, Chanlie
 //          4. Tirza Gracia
 //          5. Manaha, Cheisya Framita Lady 
+//          6. Manibuy, Vincentius
 
 
 //////ARRAY EXERCISES//////
