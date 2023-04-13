@@ -34,28 +34,28 @@ const Registration = () => {
         value={Name}
         onChangeText={e => setName(e)}
       />
-      <Gap height={30} />
+      <Gap height={40} />
       <TextInput
         label="Username"
         placeHolder="Masukan username anda"
         value={userName}
         onChangeText={e => setUsername(e)}
       />
-      <Gap height={30} />
+      <Gap height={40} />
       <TextInput
         label="Email"
         placeHolder="Masukan email anda"
         value={email}
         onChangeText={e => setEmail(e)}
       />
-      <Gap height={30} />
+      <Gap height={40} />
       <TextInput
         label="Address"
         placeHolder="Masukan Alamat anda"
         value={address}
         onChangeText={e => setAddress(e)}
       />
-      <Gap height={30} />
+      <Gap height={40} />
       <TextInput
         label="Phone Number"
         placeHolder="Masukan Nomor Telepon anda"
@@ -63,7 +63,7 @@ const Registration = () => {
         onChangeText={e => setPhone(e)}
         keyboardType={'number-pad'}
       />
-      <Gap height={30} />
+      <Gap height={40} />
       <Button label="Register" onPress={handleSignIn} />
     </View>
   );
